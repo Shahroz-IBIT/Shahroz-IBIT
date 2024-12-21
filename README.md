@@ -8,16 +8,16 @@
 - 🔍 Currently exploring Generative AI Models testing.
 
 📫 **Contact Me**:
-- 📧 Email: f18ba135@ibitpu.edu.pk
-- 💼 LinkedIn: https://www.linkedin.com/in/shahrozibitpu/
+ 📧 Email: f18ba135@ibitpu.edu.pk
+ 💼 LinkedIn: https://www.linkedin.com/in/shahrozibitpu/
 
 📂 **My Projects**:
-- **🚀 [Volksbank Digital Solutions ]
-- **🚀 [KSC Football Club ]
-- **🚀 [BWM Battery Recycling]
-- **🚀 [Mcyclo]
-- **🚀 [Stay Safe Gamification App]
-- **🚀 [BCSM APIs Automation with Ready API]
+ **🚀 [Volksbank Digital Solutions ]
+ **🚀 [KSC Football Club ]
+ **🚀 [BWM Battery Recycling]
+ **🚀 [Mcyclo]
+ **🚀 [Stay Safe Gamification App]
+ **🚀 [BCSM APIs Automation with Ready API]
 
 ## Tech Stack 🛠
 
