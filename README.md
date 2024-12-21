@@ -16,7 +16,7 @@
 - **🚀 [KSC Football Club ]
 - **🚀 [BWM Battery Recycling]
 - **🚀 [Mcyclo]
-- **🚀 [HRC Human Resource Connect] #Payroll calculation Module, #Annual Performance Calculation Module, #Internal Admin Module, #HR Module, #FC Module
+- **🚀 [HRC Human Resource Connect]**: Payroll Calculation Module, Annual Performance Calculation Module, Internal Admin Module, HR Module, FC Module.
 - **🚀 [Stay Safe Gamification App]
 - **🚀 [BCBSM APIs Automation with Ready API]
 
