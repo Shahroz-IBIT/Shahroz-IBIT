@@ -3,7 +3,7 @@
 🎯 QA Engineer | Full Stack Automation Enthusiast | Passionate About Creating Bug-Free Software 
 
 🌟 **About Me**:
-- 🚀 I specialize in E2E automation testing of (UI, Mobile, Web Applications) including the automation of REST APIs, using the Ready API
+- 🚀 I specialize in end-to-end automation testing for UI, mobile, and web applications, as well as automating REST API and SOAP architecture testing using ReadyAPI.I also have experience working with XML, including its validation and integration within automation testing workflows.
 - 🎓 Bachelor’s in Computer Science 
 - 🔍 Currently exploring Generative AI Models testing.
 
