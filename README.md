@@ -12,13 +12,13 @@
  💼 LinkedIn: https://www.linkedin.com/in/shahrozibitpu/
 
 📂 **My Projects**:
-- **🚀 [Volksbank Digital Solutions #Dashboard,#gecco2,#FutureCare]
-- **🚀 [KSC Football Club ]
-- **🚀 [BWM Battery Recycling]
-- **🚀 [Mcyclo]
+- **🚀 [Volksbank Digital Solutions #Dashboard,#gecco2,#FutureCare]**:
+- **🚀 [KSC Football Club ]**:
+- **🚀 [BWM Battery Recycling]**:
+- **🚀 [Mcyclo]**:
 - **🚀 [HRC Human Resource Connect]**: Payroll Calculation Module, Annual Performance Calculation Module, Internal Admin Module, HR Module, FC Module.
-- **🚀 [Stay Safe Gamification App]
-- **🚀 [BCBSM APIs Automation with Ready API]
+- **🚀 [Stay Safe Gamification App]**:
+- **🚀 [BCBSM APIs Automation with Ready API]**:
 
 ## Tech Stack 🛠
 
