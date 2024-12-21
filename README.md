@@ -35,6 +35,8 @@
 ![Bugzilla](https://img.shields.io/badge/Bugzilla-CC0000?style=for-the-badge&logo=bugzilla&logoColor=white)
 ![LoadRunner](https://img.shields.io/badge/LoadRunner-073763?style=for-the-badge)
 ![Appium](https://img.shields.io/badge/Appium-5C2D91?style=for-the-badge&logo=appium&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 - # Cypress Automation Script for BWA Files (Volksbank Digital Solutions 🏦 #gecco2, FutureCare)
