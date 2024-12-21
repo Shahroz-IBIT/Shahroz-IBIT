@@ -40,7 +40,7 @@
 
 
 
-- **Cypress Automation Script for BWA Files (Volksbank Digital Solutions 🏦 #gecco2, FutureCare)**
+- **Cypress Automation Script for BWA Files (Volksbank Digital Solutions 🏦 #VDS Dashoboard, #gecco2, FutureCare)**
 
 ## Features:
   - ✅ Automated the Inheritance Calculation formulas according to German laws.
