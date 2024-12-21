@@ -38,10 +38,10 @@
 
 - # Cypress Automation Script for BWA Files (Volksbank Digital Solutions 🏦 #gecco2, FutureCare)
 ## Features:
-- ✅ Automated the Inheritance Calculation formulas according to German laws.
-- ✅ Developed automation for the company profile module, ensuring accurate calculations based on profile settings.
-- ✅ Created a Cypress automation script to validate calculations across various scopes by utilizing IDs on the frontend.
-- ✅ Automates processing of 50+ files.
-- ✅ Validates calculations dynamically using AWS callback functions.
-- ✅ Structured logging and detailed error reporting.
-- ✅ Automated the Web Socket Testing of the KSC Football app.
+ ✅ Automated the Inheritance Calculation formulas according to German laws.
+ ✅ Developed automation for the company profile module, ensuring accurate calculations based on profile settings.
+ ✅ Created a Cypress automation script to validate calculations across various scopes by utilizing IDs on the frontend.
+ ✅ Automates processing of 50+ files.
+ ✅ Validates calculations dynamically using AWS callback functions.
+ ✅ Structured logging and detailed error reporting.
+ ✅ Automated the Web Socket Testing of the KSC Football app.
