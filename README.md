@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Shahroz Sarfraz!
 
-🎯 QA Engineer | Automation Enthusiast | Passionate About Creating Bug-Free Software 
+🎯 QA Engineer | Full Stack Automation Enthusiast | Passionate About Creating Bug-Free Software 
 
 🌟 **About Me**:
-- 🚀 I specialize in manual and automation testing (REST APIs, UI, Mobile, Web Applications).
+- 🚀 I specialize in E2E automation testing of (UI, Mobile, Web Applications) including the automation of REST APIs, using the Ready API
 - 🎓 Bachelor’s in Computer Science 
-- 🔍 Currently exploring Appium frameworks.
+- 🔍 Currently exploring Generative AI Models testing.
 
 📫 **Contact Me**:
 - 📧 Email: f18ba135@ibitpu.edu.pk
