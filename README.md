@@ -37,6 +37,9 @@
 ![Appium](https://img.shields.io/badge/Appium-5C2D91?style=for-the-badge&logo=appium&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Tricentis Tosca](https://img.shields.io/badge/Tricentis%20Tosca-0075C6?style=for-the-badge&logo=data:image/png;base64,<BASE64_ENCODED_IMAGE>&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy-DB0027?style=for-the-badge&logo=data:image/png;base64,<BASE64_ENCODED_IMAGE>&logoColor=white)
 
 
 
